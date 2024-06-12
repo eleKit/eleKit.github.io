@@ -54,7 +54,7 @@ interests:
 education:
   - area: PhD Computer Science
     institution: University of Milan 
-    date_start: 2019
+    #date_start: 2019
     date_end: 2023
     summary: |
       My research topic involved serious game and exergames design to support physical and cognitive rehabilitation. My goal was to design and develop a digital platform with multimodal feedback to support emotion recognition for children with autism spectrum condition.
@@ -68,6 +68,11 @@ education:
     date_end: 2018
     summary: |
        Final grade: 110/110. My thesis involved the design and development of a serious game to support upper limbs rehabilitation for children with Epidermolysis Bullosa
+ #      Courses included:
+ #     - VIDEOGAME DESIGN AND PROGRAMMING, during this course I developed "The last drop" video game prototype downloadable at https://polimi-game-collective.itch.io/the-last-drop
+ #     - ARTIFICIAL INTELLIGENCE
+ #     - KNOWLEDGE ENGINEERING
+ #     - SOFTWARE ENGINEERING 2
     button:
       text: 'Rehabilitation video games for young patients affected by epidermolysis bullosa'
       url: 'https://hdl.handle.net/10589/144748'
@@ -76,12 +81,12 @@ education:
     institution: Polytechnic of Milan
     date_start: 2012
     date_end: 2015
-    summary: |
-     Courses included:
-      - Mathematical Analysis
-      - Physics
-      - Software Engineering 1
-      - Fundamentals of automatic control
+#    summary: |
+#     Courses included:
+#      - Mathematical Analysis
+#      - Physics
+#      - Software Engineering 1
+#     - Fundamentals of automatic control
 
    - area: High School Diploma
     institution: Liceo Classico Rinaldini of Ancona
@@ -89,6 +94,7 @@ education:
     date_end: 2012
     summary: |      
       High school qualification in classical studies at Liceo Rinaldini of Ancona
+
 work:
   - position: Consultant
     company_name: Sprint Reply
