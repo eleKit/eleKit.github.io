@@ -64,8 +64,8 @@ education:
 
   - area: Master's degree, Computer Science and Engineering
     institution: Polytechnic of Milan
-    #date_start: 2016-03-01
-    #date_end: 2018-12-20
+    date_start: 2016-03-01
+    date_end: 2018-12-20
     summary: |
        2016-2018 (Final grade: 110/110). 
        My thesis involved the design and development of a serious game that exploits Leap Motion Controller to support upper limbs rehabilitation for children with Epidermolysis Bullosa
@@ -81,8 +81,8 @@ education:
 
   - area: BSc in Computer Science and Engineering
     institution: Polytechnic of Milan
-    #date_start: 2012-10-01
-    #date_end: 2016-23-02
+    date_start: 2012-10-01
+    date_end: 2016-23-02
     summary: |
       
       2012-2015.  Courses included:
@@ -102,8 +102,8 @@ work:
     company_name: Sprint Reply
     #company_url: ''
     #company_logo: ''
-    #date_start: 2019-02-01
-    #date_end: 2019-10-01
+    date_start: 2019-02-01
+    date_end: 2019-10-01
     summary: |
     from february to september 2019. Consultant in the area of Artificial Intelligence, RPA development to automate business processes and Image Recognition with depth camera (internal project)
   
