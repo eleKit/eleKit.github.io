@@ -135,6 +135,49 @@ awards:
     summary: | 
       I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift (award video https://youtu.be/Tiac0mneCrI)
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Programming Languages
+    items:
+      - name: C# (and Unity 3D)
+        #description: ''
+        #percent: 80
+        #icon: code-bracket
+      - name: Python
+      #  description: ''
+      #  percent: 100
+      #  icon: chart-bar
+      - name: Java
+      #  description: ''
+      #  percent: 40
+      #  icon: circle-stack
+      - name: Javascript (and Three.js)
+      - name: Visual Basic (and UiPath-rpa)
+      - name: C
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Video games design
+      #  description: ''
+      #  percent: 60
+      #  icon: person-simple-walk
+      - name: Painting and art 
+      #  description: ''
+      #  percent: 100
+      #  icon: cat
+      - name: Study Montessori pedagogy for children
+      #  description: ''
+      #  percent: 80
+      #  icon: camera
+
+languages:
+  - name: Italian
+    percent: 100
+  - name: English
+    percent: 80
+
 ---
 
 ## About Me
