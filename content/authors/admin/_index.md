@@ -88,7 +88,7 @@ education:
 #      - Software Engineering 1
 #     - Fundamentals of automatic control
 
-   - area: High School Diploma
+  - area: High School Diploma
     institution: Liceo Classico Rinaldini of Ancona
     date_start: 2007
     date_end: 2012
@@ -112,7 +112,7 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  -title: 4EU+ SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE
+  - title: 4EU+ SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE
     url: https://iebil.di.unimi.it/SS4EUPlus22/index.html
     date_start: 2023-08-15
     date_end: 2023-08-15
