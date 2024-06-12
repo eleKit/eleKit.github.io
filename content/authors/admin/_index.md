@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Computer Science
     institution: University of Milan 
-    #date_start: 2019
-    date_end: 2023
+    date_start: 2019-11-01
+    date_end: 2023-11-28
     summary: |
       My research topic involved serious game and exergames design to support physical and cognitive rehabilitation. My goal was to design and develop a digital platform with multimodal feedback to support emotion recognition for children with autism spectrum condition.
     button:
@@ -64,8 +64,8 @@ education:
 
   - area: Master's degree, Computer Science and Engineering
     institution: Polytechnic of Milan
-    date_start: 2016
-    date_end: 2018
+    date_start: 2016-03-01
+    date_end: 2018-12-20
     summary: |
        Final grade: 110/110. My thesis involved the design and development of a serious game to support upper limbs rehabilitation for children with Epidermolysis Bullosa
  #      Courses included:
@@ -79,8 +79,8 @@ education:
 
   - area: BSc in Computer Science and Engineering
     institution: Polytechnic of Milan
-    date_start: 2012
-    date_end: 2015
+    date_start: 2012-10-01
+    date_end: 2016-02-23
 #    summary: |
 #     Courses included:
 #      - Mathematical Analysis
@@ -90,12 +90,23 @@ education:
 
   - area: High School Diploma
     institution: Liceo Classico Rinaldini of Ancona
-    date_start: 2007
-    date_end: 2012
+    date_start: 2007-09-01
+    date_end: 2012-07-31
     summary: |      
       High school qualification in classical studies at Liceo Rinaldini of Ancona
 
 work:
+ - position: Post-doc
+    company_name: University of Milan
+    #company_url: ''
+    #company_logo: ''
+#    date_start: 2019-02-01
+    date_start: 2023-12-01
+    summary: |
+      Work on AIRCA Project. The general objective of this project is to equip a NAO robotic agent with the ability to choose and modulate actions to maximize the involvement of the human partner in a joint action game scenario characterized by a sequence of complementary actions.
+    button:
+      text: 'Airca website'
+      url: 'https://airca.di.unimi.it'
   - position: Consultant
     company_name: Sprint Reply
     #company_url: ''
