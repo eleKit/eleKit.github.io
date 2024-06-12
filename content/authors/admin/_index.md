@@ -96,7 +96,7 @@ education:
       High school qualification in classical studies at Liceo Rinaldini of Ancona
 
 work:
- - position: Post-doc
+  - position: Post-doc
     company_name: University of Milan
     #company_url: ''
     #company_logo: ''
