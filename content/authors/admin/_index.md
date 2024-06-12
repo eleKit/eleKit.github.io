@@ -68,11 +68,6 @@ education:
     date_end: 2018
     summary: |
        Final grade: 110/110. My thesis involved the design and development of a serious game to support upper limbs rehabilitation for children with Epidermolysis Bullosa
-       Courses included:
-      - VIDEOGAME DESIGN AND PROGRAMMING, during this course I developed "The last drop" video game prototype downloadable at https://polimi-game-collective.itch.io/the-last-drop
-      - ARTIFICIAL INTELLIGENCE
-      - KNOWLEDGE ENGINEERING
-      - SOFTWARE ENGINEERING 2
     button:
       text: 'Rehabilitation video games for young patients affected by epidermolysis bullosa'
       url: 'https://hdl.handle.net/10589/144748'
