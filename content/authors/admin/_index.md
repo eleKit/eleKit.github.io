@@ -69,7 +69,7 @@ education:
     summary: |
        Final grade: 110/110. My thesis involved the design and development of a serious game to support upper limbs rehabilitation for children with Epidermolysis Bullosa
  #      Courses included:
- #     - VIDEOGAME DESIGN AND PROGRAMMING, during this course I developed "The last drop" video game prototype downloadable at https://polimi-game-collective.itch.io/the-last-drop
+ #     - VIDEOGAME DESIGN AND PROGRAMMING, during this course I developed "The Last drop" video game prototype downloadable at https://polimi-game-collective.itch.io/the-last-drop
  #     - ARTIFICIAL INTELLIGENCE
  #     - KNOWLEDGE ENGINEERING
  #     - SOFTWARE ENGINEERING 2
@@ -125,15 +125,20 @@ awards:
     date: '2023-10-06'
     awarder: The Economy of Francesco, The 25th hour
     summary: |
-      The last Drop is a puzzle game that I developed to raise awareness of the problem of drought. The video-game prototype was developed during my MSc studes in the Video Game Design and Programming course. Once improved the prototype, in 2019 I participated to this contest that required to engage in a narrative exercise that fits into the perspective of re-building, of a new foundation of the spiritual and narrative capitals of our time.
+      The Last Drop is a puzzle game that I developed to raise awareness of the problem of drought. The video-game prototype was developed during my MSc studes in the Video Game Design and Programming course. Once improved the prototype, in 2019 I participated to this contest that required to engage in a narrative exercise that fits into the perspective of re-building, of a new foundation of the spiritual and narrative capitals of our time.
       I was awarded for the creativity of the project used to bring younger people closer to ecological issues through an inclusive and accessible language, from a technical-scientific background.
       
   - title: New Game Designer 2017
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+   # url: https://www.facebook.com/watch/?v=1867792626605347
+    url : https://lastatalenews.unimi.it/new-game-designer-2017
     date: '2017-08-01'
     awarder: University of Milan
     summary: | 
-      I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift (award video https://youtu.be/Tiac0mneCrI)
+      I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift.
+       (award video )
+    button:
+      text: 'award video'
+      url: 'https://youtu.be/Tiac0mneCrI'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -159,6 +164,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: 3D design with Blender
       - name: Video games design
       #  description: ''
       #  percent: 60
