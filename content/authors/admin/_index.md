@@ -103,7 +103,7 @@ work:
     date_start: 2019-02-01
     date_end: 2019-10-01
     summary: |
-    from february to september 2019. Consultant in the area of Artificial Intelligence, RPA development to automate business processes and Image Recognition with depth camera (internal project)
+      Consultant in the area of Artificial Intelligence, RPA development to automate business processes and Image Recognition with depth camera (internal project)
   
  
 
