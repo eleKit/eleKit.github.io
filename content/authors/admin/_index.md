@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Computer Science
     institution: University of Milan 
-    date_start: 2019-11-01
-    date_end: 2023-11-28
+    date_start: 2019
+    date_end: 2023
     summary: |
       My research topic involved serious game and exergames design to support physical and cognitive rehabilitation. My goal was to design and develop a digital platform with multimodal feedback to support emotion recognition for children with autism spectrum condition.
     button:
@@ -64,11 +64,10 @@ education:
 
   - area: Master's degree, Computer Science and Engineering
     institution: Polytechnic of Milan
-    date_start: 2016-03-01
-    date_end: 2018-12-20
+    date_start: 2016
+    date_end: 2018
     summary: |
-       2016-2018 (Final grade: 110/110). My thesis involved the design and development of a serious game that exploits Leap Motion Controller to support upper limbs rehabilitation for children with Epidermolysis Bullosa
-       
+       Final grade: 110/110. My thesis involved the design and development of a serious game that exploits Leap Motion Controller to support upper limbs rehabilitation for children with Epidermolysis Bullosa
        Courses included:
       - VIDEOGAME DESIGN AND PROGRAMMING, during this course I developed "The last drop" video game prototype downloadable at https://polimi-game-collective.itch.io/the-last-drop
       - ARTIFICIAL INTELLIGENCE
@@ -80,11 +79,10 @@ education:
 
   - area: BSc in Computer Science and Engineering
     institution: Polytechnic of Milan
-    date_start: 2012-10-01
-    date_end: 2016-23-02
+    date_start: 2012
+    date_end: 2015
     summary: |
-      
-      2012-2015.  Courses included:
+     Courses included:
       - Mathematical Analysis
       - Physics
       - Software Engineering 1
@@ -92,10 +90,10 @@ education:
 
    - area: High School Diploma
     institution: Liceo Classico Rinaldini of Ancona
-    #date_start: 2012-10-01
-    #date_end: 2016-23-02
+    date_start: 2007
+    date_end: 2012
     summary: |      
-      2007-2012. High school qualification in classical studies at Liceo Rinaldini of Ancona
+      High school qualification in classical studies at Liceo Rinaldini of Ancona
 work:
   - position: Consultant
     company_name: Sprint Reply
