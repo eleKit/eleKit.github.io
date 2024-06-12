@@ -67,10 +67,9 @@ education:
     date_start: 2016-03-01
     date_end: 2018-12-20
     summary: |
-       2016-2018 (Final grade: 110/110). 
-       My thesis involved the design and development of a serious game that exploits Leap Motion Controller to support upper limbs rehabilitation for children with Epidermolysis Bullosa
-      
-      Courses included:
+       2016-2018 (Final grade: 110/110). My thesis involved the design and development of a serious game that exploits Leap Motion Controller to support upper limbs rehabilitation for children with Epidermolysis Bullosa
+       
+       Courses included:
       - VIDEOGAME DESIGN AND PROGRAMMING, during this course I developed "The last drop" video game prototype downloadable at https://polimi-game-collective.itch.io/the-last-drop
       - ARTIFICIAL INTELLIGENCE
       - KNOWLEDGE ENGINEERING
