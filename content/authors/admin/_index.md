@@ -118,7 +118,7 @@ awards:
     date_end: 2023-08-15
     awarder: University of Milan, 4EU+
     summary:
-    I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
+      I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
 
   - title: The stories we are
     url: https://francescoeconomy.org/find-out-all-the-winning-works-of-the-eof-2023-contest/
@@ -127,7 +127,7 @@ awards:
     summary: |
       The last Drop is a puzzle game that I developed to raise awareness of the problem of drought. The video-game prototype was developed during my MSc studes in the Video Game Design and Programming course. Once improved the prototype, in 2019 I participated to this contest that required to engage in a narrative exercise that fits into the perspective of re-building, of a new foundation of the spiritual and narrative capitals of our time.
       I was awarded for the creativity of the project used to bring younger people closer to ecological issues through an inclusive and accessible language, from a technical-scientific background.
-
+      
   - title: New Game Designer 2017
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2017-08-01'
