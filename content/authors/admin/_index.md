@@ -125,11 +125,10 @@ work:
 awards:
   - title: 4EU+ SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE
     url: https://iebil.di.unimi.it/SS4EUPlus22/index.html
-    date_start: 2023-08-15
-    date_end: 2023-08-15
+    date: '2022-08-15'
     awarder: University of Milan, 4EU+
     summary:
-      I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
+      (from 15 to 19 august 2022) I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
 
   - title: The stories we are
     url: https://francescoeconomy.org/find-out-all-the-winning-works-of-the-eof-2023-contest/
