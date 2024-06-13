@@ -36,8 +36,8 @@ header:
     show_theme_chooser: true
     logo:
       text: "Home"
-      icon: /my-icon.png
-      iconHeight: 35
+      logo: /my-icon.png
+      
 
 # Site footer
 footer:
