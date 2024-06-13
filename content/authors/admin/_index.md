@@ -140,15 +140,15 @@ awards:
       
   - title: New Game Designer 2017
    # url: https://www.facebook.com/watch/?v=1867792626605347
-    url : https://lastatalenews.unimi.it/new-game-designer-2017
+    url : https://youtu.be/Tiac0mneCrI
     date: '2017-08-01'
     awarder: University of Milan
     summary: | 
       I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift.
        (award video )
-    button:
-      text: 'award video'
-      url: 'https://youtu.be/Tiac0mneCrI'
+#    button:
+#      text: 'award video'
+#      url: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
