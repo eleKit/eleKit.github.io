@@ -62,7 +62,7 @@ education:
       text: 'COCOON: A MULTIMODAL PLATFORM TO SUPPORT SOCIAL EMOTIONAL LEARNING FOR CHILDREN WITH AUTISM SPECTRUM DISORDER'
       url: 'https://air.unimi.it/handle/2434/1015931'
 
-  - area: Master's degree, Computer Science and Engineering
+  - area: MSc in Computer Science and Engineering
     institution: Polytechnic of Milan
     date_start: 2016-03-01
     date_end: 2018-12-20
