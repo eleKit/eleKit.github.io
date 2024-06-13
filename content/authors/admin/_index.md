@@ -123,13 +123,6 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 4EU+ SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE
-    url: https://iebil.di.unimi.it/SS4EUPlus22/index.html
-    date: '2022-08-15'
-    awarder: University of Milan, 4EU+
-    summary:
-      (from 15 to 19 august 2022) I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
-
   - title: The stories we are
     url: https://francescoeconomy.org/find-out-all-the-winning-works-of-the-eof-2023-contest/
     date: '2023-10-06'
@@ -138,14 +131,20 @@ awards:
       The Last Drop is a puzzle game that I developed to raise awareness of the problem of drought. The video-game prototype was developed during my MSc studes in the Video Game Design and Programming course. Once improved the prototype, in 2019 I participated to this contest that required to engage in a narrative exercise that fits into the perspective of re-building, of a new foundation of the spiritual and narrative capitals of our time.
       I was awarded for the creativity of the project used to bring younger people closer to ecological issues through an inclusive and accessible language, from a technical-scientific background.
       
+  - title: 4EU+ SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE
+    url: https://iebil.di.unimi.it/SS4EUPlus22/index.html
+    date: '2022-08-15'
+    awarder: University of Milan, 4EU+
+    summary:
+      (from 15 to 19 august 2022) I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
+
   - title: New Game Designer 2017
    # url: https://www.facebook.com/watch/?v=1867792626605347
     url : https://youtu.be/Tiac0mneCrI
     date: '2017-08-01'
     awarder: University of Milan
     summary: | 
-      I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift.
-       (award video )
+      I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift. (award video)
 #    button:
 #      text: 'award video'
 #      url: ''
