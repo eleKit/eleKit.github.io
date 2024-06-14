@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=8v7yYykAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0003-4369-4615
+    url: https://orcid.org/0000-0003-4369-4615
 
 interests:
   - Serious Games
