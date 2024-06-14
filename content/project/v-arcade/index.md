@@ -7,5 +7,5 @@ tags:
   - Leap Motion
   - Unity3D
 ---
-V-Arcade explots Leap Motion to support at home hand rehabilitation for children with Epidermolysis Bullosa and Juvenile Idiopathic Arthrisis. The therapist can generate remotely personalized exercises, and view the exe by looking at 3D reproduction of the hand motions recorded through the Leap.
+V-Arcade explots Leap Motion for at home hand rehabilitation for children with Epidermolysis Bullosa and Juvenile Idiopathic Arthrisis. The therapist remotely can view the 3D reproduction of the hand motions done by each child recorded with the Leap. The therapist can also generate personalized exercises.
 <!--more-->
