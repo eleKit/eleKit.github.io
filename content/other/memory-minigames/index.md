@@ -1,6 +1,6 @@
 ---
 title: Memory Minigames
-date: 2021-11-2021
+date: 2021-11-16
 external_link: https://elekit.github.io/memory-minigames/
 tags:
   - Unity3D
