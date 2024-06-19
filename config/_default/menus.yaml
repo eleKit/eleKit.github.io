@@ -24,4 +24,4 @@ main:
     weight: 30
   - name: OtherProjects
     url: other/
-    weight: 40
+    weight: 30
