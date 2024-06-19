@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Other Projects
-      text: I enjoy making things in spare time. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy making things in spare time, here are a selection of projects.
       filters:
         folders:
           - post
