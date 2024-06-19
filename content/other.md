@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Other Projects'
 date: 2024-05-19
 type: landing
 
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: Here are a selection of projects that I have worked on over the years.
+      title: Other Projects
+      text: I enjoy making things in spare time. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - project
+          - other
     design:
       view: article-grid
       fill_image: false
