@@ -15,9 +15,9 @@ sections:
       text: I enjoy making things in spare time. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - other
+          - post
     design:
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 2
 ---

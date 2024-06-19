@@ -23,5 +23,5 @@ main:
     url: projects/
     weight: 30
   - name: OtherProjects
-    url: other/
+    url: posts/
     weight: 40

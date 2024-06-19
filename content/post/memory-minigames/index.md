@@ -7,6 +7,7 @@ tags:
   - minigames
   - memory
 ---
+
 A collection of minigames, memory and puzzle, that can be played alone, with a CPU, or two people in turn on the same device.
 
 
