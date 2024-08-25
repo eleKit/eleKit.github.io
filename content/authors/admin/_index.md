@@ -128,7 +128,7 @@ awards:
     date: '2023-10-06'
     awarder: The Economy of Francesco, The 25th hour
     summary: |
-      The Last Drop is a puzzle game that I developed to raise awareness of the problem of drought. The video-game prototype was developed during my MSc studes in the Video Game Design and Programming course. Once improved the prototype, in 2019 I participated to this contest that required to engage in a narrative exercise that fits into the perspective of re-building, of a new foundation of the spiritual and narrative capitals of our time.
+      The Last Drop is a puzzle game that I developed to raise awareness of the problem of drought. The video-game prototype was developed during my MSc studes in the Video Game Design and Programming course. Once improved the prototype, I participated to this contest that required to engage in a narrative exercise that fits into the perspective of re-building, of a new foundation of the spiritual and narrative capitals of our time.
       I was awarded for the creativity of the project used to bring younger people closer to ecological issues through an inclusive and accessible language, from a technical-scientific background.
       
   - title: 4EU+ SUMMER SCHOOL ON ARTIFICIAL INTELLIGENCE
