@@ -152,7 +152,7 @@ awards:
     date: '2017-03-08'
     awarder: Pontifical Delegation for the Sanctuary of the Holy House of Loreto, Municipality of Loreto, Chamber of Commerce,Marche Region, MIBACT
     summary: | 
-      I had the possibility to showcase a modern Rosary designed by me in Loreto at Bastione Sangalli (from 8th of March to 1st of May), as part of award of a young designers ideas competition. I proposed a keychain Rosary, the idea was born with the desire to always have a Rosary with me. The goal was versatility: the keychain Rosary can be produced both with traditional techniques and materials and with innovative techniques such as a 3D printer. The showcased Rosary was 3D printed.
+      I had the possibility to showcase a modern Rosary designed by me in Loreto at Bastione Sangalli (from 8th of March to 1st of May), as part of award of the Young Designers Ideas Competition. I proposed a keychain Rosary, the idea was born with the desire to always have a Rosary with me. The goal was versatility: the keychain Rosary can be produced both with traditional techniques and materials and with innovative techniques such as a 3D printer. The showcased Rosary was 3D printed.
   
 #    button:
 #      text: 'award video'
