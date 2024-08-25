@@ -145,6 +145,15 @@ awards:
     awarder: University of Milan
     summary: | 
       I won the second place for the best Single Player video game proposed during the New Game Designer 2017 event under the pseudonym of Prometheus Gift. (award video)
+  
+  - title: Walk Lauretani Rosary Exhibition 2017
+   # url: https://www.facebook.com/watch/?v=1867792626605347
+    url :   https://www.lastampa.it/cultura/2017/03/10/fotogalleria/loreto-una-mostra-di-rosari-tra-antichit-e-innovazione-1.34633276
+    date: '2017-03-08'
+    awarder: Pontifical Delegation for the Sanctuary of the Holy House of Loreto, Municipality of Loreto, Chamber of Commerce,Marche Region, MIBACT
+    summary: | 
+      I won the possibility to showcase a modern Rosary in Loreto at Bastione Sangalli (from 8th of March to 1st of May)for the Walk Lauretani designed by me. I proposed a keychain Rosary, and idea was born with the desire to always have a rosary with me. The goal was versatility: the keychain rosary can be produced both with traditional techniques and materials and with innovative techniques such as a 3D printer; versatility also as a combination of the classic rosary with an object of common use, such as the keychain. The showcased prototype was 3D printed.
+  
 #    button:
 #      text: 'award video'
 #      url: ''
