@@ -135,7 +135,7 @@ awards:
     url: https://iebil.di.unimi.it/SS4EUPlus22/index.html
     date: '2022-08-15'
     awarder: University of Milan, 4EU+
-    summary:
+    summary: |
       (from 15 to 19 august 2022) I was selected to participate in the European summer school on recent advances on various aspect of science and technology of artificial intelligence and machine learning, including theory, techniques, methodologies, and applications.
 
   - title: New Game Designer 2017
