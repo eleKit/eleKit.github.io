@@ -25,7 +25,7 @@ role: Post-doc
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Milan, Department of Computer Science
-    url: https://di.unimi.it/
+    url: https://www.unimi.it/en/ugov/person/eleonora-chitti/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
