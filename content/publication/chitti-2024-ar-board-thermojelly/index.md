@@ -9,7 +9,7 @@ date: '2024-01-01'
 publishDate: '2024-11-11T11:00:19.654740Z'
 publication_types:
 - paper-conference
-publication: '*Companion Proceedings of the 2024 Annual Symposium on Computer-Human
+publication: '*CHI PLAY Companion 24: Companion Proceedings of the 2024 Annual Symposium on Computer-Human
   Interaction in Play*'
 doi: 10.1145/3665463.3678809
 abstract: 'The project aims to explore the game mechanics to design a competitive
