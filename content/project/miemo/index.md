@@ -1,7 +1,7 @@
 ---
 title: MiEmo (formerly Cocoon)
 date: 2023-11-28
-external_link: https://hdl.handle.net/2434/1015931
+external_link: https://www.sciencedirect.com/science/article/pii/S2451958824001829
 tags:
   - Human Computer Interaction
   - Serious Game
