@@ -8,6 +8,6 @@ tags:
   - ASC
 ---
 
-For the PhD I designed the MiEmo platform to support face emotion recognition for chidlren with autism
+For the PhD I designed the MiEmo platform to support face emotion recognition for chidlren with autism, partially funded by PRIN2022
 
 <!--more-->
