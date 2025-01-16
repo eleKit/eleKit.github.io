@@ -15,6 +15,7 @@ publication_types:
 - paper-conference
 publication: '*Converging Clinical and Engineering Research on Neurorehabilitation
   V*'
+doi: 10.1007/978-3-031-77584-0_120,
 abstract: We describe the co-design process of a platform based on exergames for a
   novel multi-modal intervention on the recognition of emotions for children (4--8 years
   old) with medium or high functioning Autism Spectrum Condition (ASC). Rich feedback

@@ -19,6 +19,7 @@ publishDate: '2025-01-16T11:44:53.262577Z'
 publication_types:
 - paper-conference
 publication: '*Ambient Assisted Living*'
+doi: 10.1007/978-3-031-77318-1_2
 abstract: Over the last years, social robots have been adopted to train children with
   Autism Spectrum Conditions (ASC) in socio-cognitive skills. Findings reveal that
   the social robots are well accepted by both children and stakeholders, thus opening
