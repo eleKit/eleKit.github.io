@@ -5,7 +5,7 @@ authors:
 date: '2017-01-01'
 publishDate: '2024-11-11T10:53:40.656195Z'
 publication_types:
-- msc-thesis
+- MSc thesis
 publication: '*Politecnico di Milano*'
 links:
 - name: URL
