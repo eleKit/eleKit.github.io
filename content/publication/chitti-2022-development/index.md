@@ -14,7 +14,7 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-11-11T10:53:40.613318Z'
 publication_types:
-- article-journal
+- abstract
 publication: '*PSIHOLOSKA OBZORJA*'
 links:
 - name: URL

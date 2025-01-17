@@ -6,7 +6,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-11-11T10:53:40.607074Z'
 publication_types:
-- article-journal
+- phd-thesis
 publication: '*Università degli Studi di Milano*'
 links:
 - name: URL
