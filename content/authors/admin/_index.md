@@ -206,4 +206,4 @@ languages:
 
 ## About Me
 
-Eleonora Chitti is a post-doc researcher of serious games and robotics at the University of Milan, Laboratory of Applied Intelligent Systems (AIS-Lab). Her research interests include serious games design, multimodal interaction, HRI and HCI for rehabilitation, XR reality. 
+Eleonora Chitti is a post-doc researcher of serious games and robotics at the University of Milan. Her research interests include serious games design, multimodal interaction, HRI and HCI for rehabilitation, XR reality. 
