@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research scientist at the Laboratory of Applied Intelligent Systems (AIS-Lab), in the Computer Science Department of University of Milan. 
+        I'm a research scientist in the Computer Science Department of University of Milan. 
 
-        In brief my research focuses on serious games design, involving mixed-reality and human-computer/ human-robot interaction with multimodal feedback. In particular, I investigate the role of digital applications and humanoid-robots to support physical and cognitive rehabilitation.
+        In brief my research focuses on serious games design, involving mixed-reality and human-computer/ human-robot interaction with multimodal feedback. In particular, I investigate the role of digital and hybrid analog-digital applications to support physical and cognitive rehabilitation.
         
     design:
       columns: '1'
