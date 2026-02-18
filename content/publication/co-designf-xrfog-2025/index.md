@@ -13,7 +13,7 @@ authors:
 - Carlo Manzoni
 - Roberta Ferrucci
 - N. Alberto Borghese
-date: '2025-01-01'
+date: '2025-01-02'
 publishDate: '2026-02-18T09:03:50.839752Z'
 publication_types:
 - paper-conference

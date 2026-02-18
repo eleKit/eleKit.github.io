@@ -3,7 +3,7 @@ title: Reaching and Grasping with NAO Robot
 authors:
 - N. Alberto Borghese
 - Eleonora Chitti
-date: '2025-01-01'
+date: '2025-01-02'
 publishDate: '2026-02-18T09:03:50.823017Z'
 publication_types:
 - paper-conference
