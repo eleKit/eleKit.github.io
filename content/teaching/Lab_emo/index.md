@@ -1,13 +1,13 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Laboratorio: creazione e nuove tecnologie: emozioni, immagini e performance AA 2025/2026
+summary: Il laboratorio Creazione e nuove tecnologie: emozioni, immagini e performance è rivolto agli studenti e alle studentesse delle lauree triennali e magistrali di Beni Culturali.
+date: 2026-03-05
 type: docs
 math: false
 tags:
-  - JavaScript
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  - Emozioni
+#image:
+#  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
@@ -19,6 +19,9 @@ On this page, you'll find some examples of the types of technical content that c
 ## Video
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
+
+Lazione 1: {{< attach "Laboratorio 1-emozoni-nuovi-media-2026.pdf" >}}
+
 
 {{< youtube D2vj0WcvH5c >}}
 
