@@ -12,6 +12,6 @@ image:
 
 Qui potrete trovare le slides del laboratorio:
 
-[3 Marzo 2026 – Slides Laboratorio 1 ](static/uploads/Laboratorio-1-tech-emozioni-performance-2026.pdf)
+[5 Marzo 2026 – Slides Laboratorio 1 ](static/uploads/Laboratorio-1-tech-emozioni-performance-2026.pdf)
 
 
