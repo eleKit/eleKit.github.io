@@ -11,6 +11,6 @@ image:
 ---
 
 
-[Slides Laboratorio 1, 3 Marzo 2026](uploads/Laboratorio-1-emozoni-nuovi-media-2026.pdf)
+[Slides Laboratorio 1, 3 Marzo 2026](static/uploads/Laboratorio-1-tech-emozioni-performance-2026.pdf)
 
 
