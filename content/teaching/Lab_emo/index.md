@@ -5,7 +5,7 @@ date: 2026-03-05
 type: docs
 math: false
 tags:
-  - Emozioni
+  - Nuove Tecnologie, Emozioni, Performance
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
