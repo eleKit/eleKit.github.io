@@ -25,3 +25,7 @@ main:
   - name: OtherProjects
     url: posts/
     weight: 40
+  - name: Teaching
+    url: teaching/
+    weight: 40
+    
